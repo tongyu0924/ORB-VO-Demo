@@ -1,8 +1,6 @@
 # ORB-VO-Demo
 
-## 🎥 Demo Video
+## 🎬 Demo Video
 
-[![Monocular Visual Odometry Demo](https://img.youtube.com/vi/LPUv11dxp4c/0.jpg)](https://youtu.be/LPUv11dxp4c)
-
-▶️ Click the image above to watch the demo video on YouTube.  
-(You can **click** the thumbnail to open the video in a new tab.)
+[![Watch the demo](./screenshot.png)](https://youtu.be/LPUv11dxp4c)  
+👉 **Click the image to watch the full video on YouTube**
