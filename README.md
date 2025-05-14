@@ -19,7 +19,7 @@ This project demonstrates a simple **camera-based localization** system using **
 
 ---
 
-## ✨ Features
+## 🛠️ Features
 
 - ORB feature detection & matching
 - Essential matrix (E) estimation with RANSAC
