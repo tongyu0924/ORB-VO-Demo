@@ -32,7 +32,7 @@ This project demonstrates a simple **camera-based localization** system using **
 
 ```bash
 python export_trajectory.py
-
+```
 
 ---
 
@@ -94,4 +94,4 @@ python export_trajectory.py
 +---------------------------+
 | Show frame / write video  |
 +---------------------------+
-
+```
