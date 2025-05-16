@@ -122,7 +122,7 @@ cap.release()
 # Save JSON
 output = [[x, y, z] for x, y, z in zip(xs, ys, zs)]
 Path("trajectory.json").write_text(json.dumps(output, indent=2))
-print(f"✅ Exported {len(output)} poses to trajectory.json")
+print(f"Exported {len(output)} poses to trajectory.json")
 
 plt.ioff()
 plt.show()
