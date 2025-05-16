@@ -4,7 +4,7 @@ This project demonstrates a simple **camera-based localization** system using **
 
 <p align="center">
   <img src="https://img.youtube.com/vi/LPUv11dxp4c/0.jpg" width="420"/>
-  <img src="https://img.youtube.com/vi/Dr8zx3VXZBE/0.jpg" width="420"/>
+  <img src="https://img.youtube.com/vi/4cKQ5jyj8w8/0.jpg" width="420"/>
 </p>
 
 ---
@@ -15,7 +15,7 @@ This project demonstrates a simple **camera-based localization** system using **
   [▶ Watch on YouTube](https://youtu.be/LPUv11dxp4c)
 
 - 📍 **3D/2D Trajectory Visualization**  
-  [▶ Watch on YouTube](https://youtu.be/Dr8zx3VXZBE)
+  [▶ Watch on YouTube](https://youtu.be/4cKQ5jyj8w8)
 
 ---
 
